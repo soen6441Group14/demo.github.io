@@ -1,6 +1,6 @@
 package com.map;
 
-public class Map {
+public class Maps {
 
 	// length is x
 	private int length;
