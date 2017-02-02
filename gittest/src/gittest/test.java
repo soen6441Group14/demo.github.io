@@ -6,7 +6,7 @@ public class test {
 		
 		System.out.println("hi");
 		//test
-		
+		System.out.print(false);
 		System.out.println("testReza");
 	}
 }
